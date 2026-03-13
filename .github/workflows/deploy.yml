@@ -28,4 +28,4 @@ jobs:
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./public/
-          server-dir: /  # oder z.B. /web/ je nach Infomaniak-Struktur
+          server-dir: /sites/peter-wyss.ch/  # oder z.B. /web/ je nach Infomaniak-Struktur
