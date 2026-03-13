@@ -7,7 +7,7 @@ menu:
     weight: 3
     identifier: Natur
     title: Natur
-unifiedAlt: '© peter Wyss'
+unifiedAlt: '© Peter Wyss'
 build:
   publishResources: false # just copy
 ---

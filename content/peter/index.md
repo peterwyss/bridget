@@ -7,7 +7,7 @@ menu:
     weight: 1
     identifier: Peter
     title: Peter
-unifiedAlt: '© peter Wyss'
+unifiedAlt: '© Peter Wyss'
 build:
   publishResources: false # just copy
 ---

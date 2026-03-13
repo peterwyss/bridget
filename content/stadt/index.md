@@ -7,7 +7,7 @@ menu:
     weight: 2
     identifier: Stadt
     title: Stadt
-unifiedAlt: '© peter Wyss'
+unifiedAlt: '© Peter Wyss'
 build:
   publishResources: false # just copy
 ---

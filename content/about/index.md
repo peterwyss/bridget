@@ -7,8 +7,10 @@ menu:
     weight: 4
     identifier: About
     title: About
-unifiedAlt: '© peter Wyss'
+unifiedAlt: '© Peter Wyss'
 build:
   publishResources: false # just copy
 ---
 Peter Wyss
+Habsburgstrasse 4
+8037 Zürich
