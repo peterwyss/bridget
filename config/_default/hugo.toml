@@ -1,7 +1,7 @@
 # timeout
 timeout = "1200s"
 # your website url
-baseURL = 'https://bridget-demo.sped0n.com' # <-- MODIFY ME
+baseURL = 'https://peter-wyss.ch' # <-- MODIFY ME
 # website title
 title = 'Peter Wyss' # <-- MODIFY ME
 # don't touch this
