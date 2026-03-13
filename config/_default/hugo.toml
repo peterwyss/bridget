@@ -1,0 +1,13 @@
+# timeout
+timeout = "1200s"
+# your website url
+baseURL = 'https://bridget-demo.sped0n.com' # <-- MODIFY ME
+# website title
+title = 'Peter Wyss' # <-- MODIFY ME
+# don't touch this
+disableKinds = ["section", "taxonomy", "term", "home"]
+# robots.txt
+enableRobotsTXT = true
+[module]
+[[module.imports]]
+path = "github.com/Sped0n/bridget/v2"
