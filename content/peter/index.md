@@ -5,8 +5,8 @@ url: /
 menu:
   main:
     weight: 1
-    identifier: Peter
-    title: Peter
+    identifier: Home
+    title: Home
 unifiedAlt: '© Peter Wyss'
 build:
   publishResources: false # just copy
